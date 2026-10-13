@@ -11,6 +11,7 @@ I build REST APIs with a focus on authentication, relational data, maintainable 
 | [Appointment Booking API](https://github.com/parsazabihii/appointment-api) | Dynamic scheduling, booking locks, idempotent payment webhooks and background jobs | Laravel, PostgreSQL, Redis |
 | [Local Discovery API](https://github.com/parsazabihii/local-discovery-api) | Places, services, reviews, favorites and OTP authentication | Laravel, Sanctum, PostgreSQL |
 | [Company Website API](https://github.com/parsazabihii/company-website-api) | Content management, admin authentication and OpenAPI documentation | Laravel, Sanctum, Swagger |
+| [Inventory & Order Management API](https://github.com/parsazabihii/inventory-order-api) | Multi-warehouse inventory, transactional stock reservations, idempotent orders and concurrency tests | Laravel, PostgreSQL, Sanctum |
 
 Each repository includes setup instructions and describes its current testing status and limitations.
 
